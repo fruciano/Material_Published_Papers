@@ -1,5 +1,5 @@
 #### This script briefly outlines the analyses used in
-#### Jones et al. - Insectes Sociaux
+#### Jones et al. 2018 - Insectes Sociaux 65(3): 419-429.
 #### Each of these analyses was performed multiple times
 #### (e.g., on multiple rarefied datasets, 
 #### in multiple pairwise comparisons,
@@ -10,7 +10,7 @@
 
 #### If you use this script in your own research
 #### a citation to
-#### Jones et al. - Insectes Sociaux
+#### Jones et al. 2018 - Insectes Sociaux 65(3): 419-429
 #### would be kindly appreciated
 #### However, more importantly, please cite the authors
 #### whom have developed the methods we have used and
